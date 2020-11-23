@@ -1,2 +1,2 @@
 # PHP_Hacks
-* initialize codeigniter composer create-project CodeIgniter/framework ci-app
+* initialize codeigniter `composer create-project CodeIgniter/framework ci-app`
